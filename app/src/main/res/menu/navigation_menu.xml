@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/nav_profile"
+        android:icon="@mipmap/profileicon"
+        android:title="My Profile"
+        android:checked="true"/>
+
+    <item android:id="@+id/nav_hire"
+        android:icon="@mipmap/hireicon"
+        android:title="Why Hire Me" />
+
+    <item android:id="@+id/nav_cool"
+        android:icon="@mipmap/coolicon"
+        android:title="Coll Stuff About Me" />
+
+    <item android:id="@+id/nav_message"
+        android:icon="@mipmap/messageicon"
+        android:title="Drop a Message" />
+
+    </menu>
